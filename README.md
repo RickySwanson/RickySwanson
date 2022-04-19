@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RickySwanson;
-- 👀 I’m interested in ...;
-- 🌱 I’m currently learning ...;
-- 💞️ I’m looking to collaborate on ...;
-- 📫 How to reach me ...;
+- 👀 I’m interested in game development, programming in general, 3D & animation;
+- 🌱 I’m currently learning C#, Phyton;
 
 <!---
 RickySwanson/RickySwanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
