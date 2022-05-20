@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RickySwanson;
+- 👋 Hello world, I’m @RickySwanson;
 - 👀 I’m interested in game development, programming in general, 3D & animation;
 - 🌱 I’m currently learning Unity, C#, python;
 
